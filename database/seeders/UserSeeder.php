@@ -20,6 +20,7 @@ class UserSeeder extends Seeder
             'email' => 'martazapacka17@gmail.com',
             'password' => Hash::make('password'),
             'email_verified_at' => now(),
+            'is_admin' => true,
         ]);
 
         // Test lietotājs 
@@ -28,6 +29,7 @@ class UserSeeder extends Seeder
             'email' => 'test@test.com',
             'password' => Hash::make('password'),
             'email_verified_at' => now(),
+            'is_admin' => false,
         ]);
     }
 }
