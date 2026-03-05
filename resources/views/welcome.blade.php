@@ -18,7 +18,7 @@
                 <p class="text-gray-600">Original paintings in various styles and moods that will give your home a special character</p>
             </div>
             <div class="text-center p-6 bg-white rounded-lg shadow">
-                <h3 class="text-xl font-bold mb-2 text-gray-900">Littles</h3>
+                <h3 class="text-xl font-bold mb-2 text-gray-900">Trinkets</h3>
                 <p class="text-gray-600">Handmade little gifts from natural materials - practical and aesthetic for everyday use</p>
             </div>
             <div class="text-center p-6 bg-white rounded-lg shadow">
